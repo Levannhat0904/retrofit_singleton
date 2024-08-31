@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LearnRecyclerView</string>
+    <string name="text_gpa">Gpa</string>
+    <string name="text_full_name">Full name</string>
+    <string name="student_id">Student Id</string>
+    <string name="desc_image_avatar">image avatar</string>
+    <string name="full_name">Full name: %s</string>
+    <string name="id">Student id: %s</string>
+    <string name="gender">Gender: %s</string>
+    <string name="address">Address: %s</string>
+    <string name="birth_date">Birth date: %s</string>
+    <string name="email">Email: %s</string>
+    <string name="major">Major: %s</string>
+    <string name="year">Year: %d</string>
+    <string name="gpa">GPA: %f</string>
+</resources>
